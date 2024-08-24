@@ -19,7 +19,7 @@ export default {
     const guild = client.guilds.get(Config.guild_support.id)
 
     try {
-      Promise.all([setInterval(async () => {
+      Promise.all([
       setInterval(() => {
         const game = status[Math.round(Math.random() * status.length)]
         if (game?.type === 0) {
