@@ -12,10 +12,7 @@ export const Config: ConfigOptions = {
     getAllUsers: true,
     intents: 34799,
     restMode: true,
-    compress: true,
     maxReconnectAttempts: Infinity,
-    maxResumeAttempts: 20,
-    connectionTimeout: 10 * 1000,
     ws: {
       perMessageDeflate: true
     },
