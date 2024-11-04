@@ -34,7 +34,7 @@
     "bson": "^6.9.0",
     "dotenv": "^16.4.5",
     "eslint": "^8.57.1",
-    "eslint-plugin-sort-class-members": "^1.20.0",
+    "eslint-plugin-sort-class-members": "^1.21.0",
     "typescript": "^5.6.3"
   }
 }
