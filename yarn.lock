@@ -398,8 +398,8 @@ dotenv@^16.4.5:
 
 eris@RabbitHouseCorp/eris#dev:
   version "0.16.3-custom"
-  uid e0340a5d17377b2905ddedbc83020b9d7ca70ee7
-  resolved "https://codeload.github.com/RabbitHouseCorp/eris/tar.gz/e0340a5d17377b2905ddedbc83020b9d7ca70ee7"
+  uid d0841b074c9d4804cd79563b44d81cc67d203bfc
+  resolved "https://codeload.github.com/RabbitHouseCorp/eris/tar.gz/d0841b074c9d4804cd79563b44d81cc67d203bfc"
   dependencies:
     ws "^8.5.0"
   optionalDependencies:
