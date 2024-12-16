@@ -23,7 +23,7 @@
     "axios": "^1.7.9",
     "chalk": "^5.3.0",
     "eris": "RabbitHouseCorp/eris#dev",
-    "mongoose": "^8.8.4",
+    "mongoose": "^8.9.0",
     "revolt.io": "^1.0.0"
   },
   "devDependencies": {
