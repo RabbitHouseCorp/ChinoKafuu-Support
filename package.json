@@ -21,7 +21,7 @@
   "license": "AGPL-3.0",
   "dependencies": {
     "axios": "^1.7.9",
-    "chalk": "^5.3.0",
+    "chalk": "^5.4.1",
     "eris": "RabbitHouseCorp/eris#dev",
     "mongoose": "^8.9.2",
     "revolt.io": "^1.0.0"
